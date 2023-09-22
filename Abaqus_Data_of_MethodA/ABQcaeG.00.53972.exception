@@ -1,0 +1,40 @@
+<Description>
+   ABQcaeG.exe / rank 0 / thread 0  encountered an unhandled exception
+
+</Description>
+
+<Context>
+   ABQcaeG
+</Context>
+
+<Callstack>
+  1)  KERNELBASE.dll              RaiseException                          
+  2)  VCRUNTIME140_1.dll          _NLG_Return2                            
+  3)  ntdll.dll                   RtlCaptureContext                       
+  4)  ABQcaeG.exe               unknown                                 
+</Callstack>
+
+<Memory>
+   <Current>            0 GB </Current>
+   <Resident>           0 GB </Resident>
+   <Physical>        1534 GB </Physical>
+   <Limit>              0 GB </Limit>
+   <Accessible>      1534 GB </Accessible>
+   <Available>       1497 GB </Available>
+   <Allocator>            DL </Allocator>
+</Memory>
+
+<Swap>
+       <Size>        1592 GB </Size>
+       <Used>          37 GB </Used>
+       <Free>        1554 GB </Free>
+</Swap>
+
+<Directories>
+  <current> E:\Abaqus_workfile\2023\9_20   </current> <free>   1696 GB </free>   <used>    343 GB </used> 
+     <temp> C:\Users\Administrator\AppData\Local\Temp\2 </temp>    <free>    317 GB </free>
+</Directories>
+
+<Installation>
+</Installation>
+

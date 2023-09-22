@@ -1,0 +1,22 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB Cu-Ni-PI_Journal-2_9-20
+Abaqus 2023
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 25 tokens from Flexnet server localhost.
+<9974 out of 9999 licenses remain available>.
+Begin Analysis Input File Processor
+2023/9/20 16:41:36
+Run pre.exe
+2023/9/20 16:41:43
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+2023/9/20 16:41:43
+Run standard.exe
+WARNING: No GPU Accelerator compatible driver detected.WARNING: No GPU Accelerator compatible driver detected.2023/9/20 16:42:15
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+2023/9/20 16:42:16
+Run SMASimUtility.exe
+2023/9/20 16:42:16
+End SIM Wrap-up
+Abaqus JOB Cu-Ni-PI_Journal-2_9-20 COMPLETED
